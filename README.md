@@ -1,2 +1,2 @@
-# AUSK-News
+# AUSK-News website project
 mini project
